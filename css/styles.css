@@ -65,6 +65,10 @@ color: #404bbf;
 .header-contact-link:focus {
 color: #404bbf;
 }
+.heder-contact-list{
+font-style: normal;
+}
+
 
 .solutions{
 background: #2e2f42;

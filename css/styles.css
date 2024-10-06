@@ -34,6 +34,7 @@ color: #2e2f42;
 .header-menu-link:hover {
 color: #404bbf;      
 }
+/* 
 .header-menu-link-studio{
 color: #2e2f42;
 }
@@ -42,7 +43,7 @@ color: #2e2f42;
 }
 .header-menu-link-studio:focus {
 color: #404bbf;
-}
+} */
 .header-contact-link {
      font-style:normal;
      font-size: 16px;

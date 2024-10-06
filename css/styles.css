@@ -24,14 +24,17 @@ a{
 .header-logo-blue{
     color: #4d5ae5;
 }
-.header-menu-list{
+.header-menu-item{
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header-menu-list:hover {
-color: #404bbf;     
+.header-menu-link:hover {
+color: #404bbf;      
+}
+.header-menu-link-studio:hover {
+     color: #404bbf;
 }
 .header-menu-link-studio:focus {
 color: #404bbf;

@@ -56,10 +56,11 @@ background: #2e2f42;
 .solution-subtitle {
      font-weight: 700;
      font-size: 56px;
-     line-height: 1.07143;
+     line-height: 1.07;
      letter-spacing: 0.02em;
      text-align: center;
      color: #fff;
+     
 }
 .solutions-btn {
      font-family: inherit;
@@ -82,8 +83,10 @@ background: #404BBF;
 .mission-subtitle-three {
      font-weight: 500;
      font-size: 20px;
-     line-height: 1.07;
+     /* line-height: 1.07; */
      letter-spacing: 0.02em;  
+     line-height: 1.2;
+     color: #2e2f42;
 }
 .mission-text {
      font-size: 16px;
@@ -93,7 +96,7 @@ background: #404BBF;
 }
 
 .team {
-    background: #f4f4fd;
+background: #f4f4fd;
 }
 .team-subtitle-two {
      font-weight: 700;
@@ -122,6 +125,10 @@ background: #404BBF;
 .team-list{
 background-color: #FFFFFF;
 }
+.team-item{
+background-color: #FFFFFF;
+}
+
 .portfolio-two {
      font-weight: 700;
      font-size: 36px;
@@ -129,6 +136,7 @@ background-color: #FFFFFF;
      letter-spacing: 0.02em;
      text-align: center; 
      text-transform: capitalize;
+     color: #2e2f42;
 }
 .portfolio-subtitle-three {
      font-weight: 500;
@@ -136,7 +144,7 @@ background-color: #FFFFFF;
      line-height: 1.2;
      letter-spacing: 0.02em;
      text-transform: capitalize;
-    color: #2e2f42;
+     color: #2e2f42;
  }
 .portfolio-text {
      font-size: 16px;

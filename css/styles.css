@@ -29,6 +29,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .header-menu-link:hover {
 color: #404bbf;      
@@ -105,7 +106,7 @@ background: #f4f4fd;
      letter-spacing: 0.02em;
      text-align: center;
      color: #2e2f42;
-     text-transform: capitalize
+     text-transform: capitalize    
 }
 .team-subtitle-three {
      font-weight: 500;
@@ -113,9 +114,9 @@ background: #f4f4fd;
      line-height: 1.2;
      letter-spacing: 0.02em;
      text-align: center;
+     color: #2e2f42;
 }
 .team-text {
-    
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;

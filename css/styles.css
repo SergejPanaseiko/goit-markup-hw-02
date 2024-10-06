@@ -31,9 +31,16 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+.header-menu-link{
+color: #2e2f42;
+}
 .header-menu-link:hover {
 color: #404bbf;      
 }
+.header-menu-link:focus {
+     color: #404bbf;
+}
+
 /* 
 .header-menu-link-studio{
 color: #2e2f42;
@@ -45,15 +52,17 @@ color: #2e2f42;
 color: #404bbf;
 } */
 .header-contact-link {
-     font-style:normal;
+     font-style: normal;
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;
-     color: #434455;
-     
+     color: #434455;   
 }
 .header-contact-link:hover {
 font-style: normal;
+color: #404bbf;
+}
+.header-contact-link:focus {
 color: #404bbf;
 }
 

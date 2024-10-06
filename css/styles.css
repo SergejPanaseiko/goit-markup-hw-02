@@ -10,6 +10,7 @@ ul{
 a{
     text-decoration: none;
 }
+
 /* ------------- HEADER --------------*/
 .header-logo{
     font-family: "Raleway", sans-serif;
@@ -29,12 +30,21 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+.header-menu-list:hover {
+color: #404bbf;     
+}
+.header-menu-link-studio:focus {
+color: #404bbf;
+}
 .header-contact-link {
      font-style:normal;
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;
      color: #434455;
+}
+.header-contact-link:hover {
+color: #404bbf;
 }
 
 .solutions{
@@ -57,8 +67,12 @@ background: #2e2f42;
      color: #fff;
      box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
      background: #4d5ae5;
+     cursor: pointer;
 }
 
+.solutions-btn:hover {
+background: #404bbf;
+}
 .mission-subtitle-three {
      font-weight: 500;
      font-size: 20px;

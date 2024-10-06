@@ -119,21 +119,24 @@ background: #404BBF;
      text-align: center;
      color: #434455;
 }
-
-
+.team-list{
+background-color: #FFFFFF;
+}
 .portfolio-two {
      font-weight: 700;
      font-size: 36px;
      line-height: 1.11;
      letter-spacing: 0.02em;
-     text-align: center;       
+     text-align: center; 
+     text-transform: capitalize;
 }
 .portfolio-subtitle-three {
      font-weight: 500;
      font-size: 20px;
      line-height: 1.2;
      letter-spacing: 0.02em;
-     text-transform: capitalize
+     text-transform: capitalize;
+    color: #2e2f42;
  }
 .portfolio-text {
      font-size: 16px;
@@ -161,7 +164,7 @@ background: #404BBF;
 }
 .footer-text {
 font-size: 16px;
-line-height: 1.17;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
